@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-WIFISocketNew/Pods-WIFISocketNew-resources.sh
+${PODS_ROOT}/AlipaySDK-iOS/AlipaySDK.bundle
+${PODS_ROOT}/FBSDKCoreKit/FacebookSDKStrings.bundle
+${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle
